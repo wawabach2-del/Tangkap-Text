@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tangkap Teks</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="rotate">Putar</string>
+    <string name="scan">Tangkap teks</string>
+    <string name="tab_layout">Tata letak</string>
+    <string name="tab_text">Teks</string>
+    <string name="tab_photo">Ganti di foto</string>
+    <string name="show_original">Foto asli</string>
+    <string name="copy_plain">Salin teks</string>
+    <string name="copy_rich">Salin berformat</string>
+    <string name="share">Bagikan</string>
+    <string name="save_image">Simpan gambar</string>
+    <string name="edit_line">Edit baris</string>
+    <string name="bold">Tebal</string>
+    <string name="italic">Miring</string>
+    <string name="ok">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="hint_start">Pilih foto dari galeri atau ambil dengan kamera.</string>
+    <string name="hint_edit">Ketuk baris untuk mengedit. Baris yang diubah diberi garis hijau.</string>
+</resources>

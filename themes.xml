@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TangkapTeks" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0B6E5F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.TangkapTeks.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0B6E5F</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.TangkapTeks</item>
+    </style>
+</resources>
